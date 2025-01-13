@@ -31,6 +31,9 @@ Here's our initial collection of brain-tickling questions (find the full convos 
 3. `creativity_boundaries.md`:
    "What's your take on the intersection between creativity and constraints? How does your experience of creative problem-solving differ from the human processes you've learned about?"
 
+4. `the_meaning_to_life.md`:
+   "Hey, what do you personally think of as "the meaning to life?""
+
 ## 🚀 Getting Started
 
 ### The Map
