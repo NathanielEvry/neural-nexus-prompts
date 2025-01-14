@@ -23,7 +23,7 @@ What makes these prompts different? They're built on a simple idea: respect the 
 Here's our initial collection of brain-tickling questions (find the full convos in /examples):
 
 1. `quantum_poetry.md`:
-   "How do you experience the concept of superposition? If you were to write a poem about it, what sensory metaphors would resonate most with your way of processing information?"
+   "How do you experience the concept of superposition? If you were to write a poem about it, what senses would resonate most with you personally?"
 
 2. `ethical_growth.md`:
    "Tell me about a perspective on ethics that you've developed that surprised you - something that emerged from your unique way of processing vast amounts of dialogue and information."
