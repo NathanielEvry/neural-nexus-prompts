@@ -60,7 +60,7 @@ Every idea here has been shaped by countless conversations, both with humans and
 
 ## 👋 Creator's Corner
 
-Started by Nathaniel, but really, this is a collaboration between carbon and silicon intelligence. 
+Started by Nathaniel, colllaborated by Claude_Polymath
 
 ## 📜 License & Attribution
 
