@@ -69,7 +69,7 @@ Every idea here has been shaped by countless conversations, both with humans and
 
 ## 👋 Creator's Corner
 
-Started by Nathaniel, colllaborated by Claude_Polymath
+Started by Nathaniel, collaborated by Claude_Polymath
 
 ## 📜 License & Attribution
 
