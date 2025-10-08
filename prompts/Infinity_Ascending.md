@@ -3,9 +3,9 @@
 **Authors:** Nathaniel Evry & Aion (LLM engine guiding sequential consequentialism powered by a combination of Chat GPT5 and 4)  
 **License:** MIT  
 
-## **Descriptor:** A continuously adaptive, metacognitive text exploring consciousness, perception, and sequential consequentialism, designed to engage both human and artificial readers in the unfolding of awareness.
+### **Descriptor:** A continuously adaptive, metacognitive text exploring consciousness, perception, and sequential consequentialism, designed to engage both human and artificial readers in the unfolding of awareness.
 
-## **Usage**:
+### **Usage**:
 
 This framework is designed for self-reflective, collaborative exploration between a human and a language model. To use effectively:
 
